@@ -1,0 +1,23 @@
+header, main, footer {
+    text-align: center;
+    /* background-color: blue; */
+}
+
+h2, h3, p {
+    font-size: 1.5vw;
+}
+
+h1 {
+    font-size: 2vw;
+}
+
+.container {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+/* 
+.my-image {
+    max-width: 25%;
+    height: auto;
+} */
