@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Lose Circle - Dmitrii Popovich, IE</title>
+</head>
+<body class="container">
+    <div style="text-align: center; margin-top: 50px;">
+        <h2>Dmitrii Popovich, IE</h2>
+        <h3>Lose Circle</h3>
+        <p>A hardcore clicker game where rhythm and precision are everything. Don't lose to the circle!</p>
+        <p>&copy; 2026 Dmitrii Popovich, IE. All rights reserved.</p>
+        <p>
+            <a href="privacy-lose-circle.html">Privacy Policy</a> | Contact: dko538000@gmail.com
+        </p>
+    </div>
+</body>
+</html>
